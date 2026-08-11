@@ -4,6 +4,7 @@ public class moveZeroToEnd{
 
     public static void Brute(int arr[], int n){
 
+
         ArrayList<Integer> temp = new ArrayList<>();
         int length = arr.length;
         for(int i = 0; i<length; i++){
