@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "lowBound",
+            "request": "launch",
+            "mainClass": "lowBound",
+            "projectName": "Data-Structures-Algorithms_ecf6a3e7"
+        },
+        {
+            "type": "java",
+            "name": "upperBound",
+            "request": "launch",
+            "mainClass": "upperBound",
+            "projectName": "Data-Structures-Algorithms_ecf6a3e7"
+        },
+        {
             "type": "jdk",
             "request": "launch",
             "name": "Launch Java App"
